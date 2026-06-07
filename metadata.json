@@ -1,0 +1,6 @@
+{
+  "name": "Kalender Pendidikan",
+  "description": "Aplikasi kalender pendidikan interaktif untuk mengelola kegiatan akademik, jadwal belajar efektif, libur sekolah, dan agenda tahunan secara elegan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
